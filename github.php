@@ -1,1 +1,1 @@
-<?php `git pull origin master`;?>
+<?php `/usr/local/cpanel/3rdparty/bin/git pull origin master`;?>
